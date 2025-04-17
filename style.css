@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flag {
+  width: 300px;
+  height: 180px;
+}
+
+
+.blue {
+  height: 33.33%;
+  background-color: #1047ae;
+}
+
+.white {
+  height: 33.33%;
+  background-color: #ffffff;
+}
+
+.red {
+  height: 33.33%;
+  background-color: #da131a;
+}
